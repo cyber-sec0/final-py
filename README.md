@@ -1,6 +1,6 @@
 # Final Project
 
-This will be a program that the user has to guess/hunt something by entering the correctly randomly generated number
+This will be a program that the user has to either kill or run away from zombies
 
 ## Required Technologies
 ---
