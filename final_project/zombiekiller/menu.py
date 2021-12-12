@@ -1,3 +1,14 @@
+"""
+Description for this class.
+
+OOP Principles Used:
+Abstraction
+Encapsulation
+
+Reasoning:
+This class uses abstraction, since the it is a class that helps the whole program be broken into smaller pieces/classes
+This class uses encapsulation, since the __game_view constant variable is private since it don't need to be changed
+"""
 import arcade
 from zombiekiller import constants, music
 

@@ -1,3 +1,15 @@
+"""
+Description for this class.
+
+OOP Principles Used:
+Abstraction
+Encapsulation
+
+Reasoning:
+This class uses abstraction, since the it is a class that helps the whole program be broken into smaller pieces/classes
+This class uses encapsulation, since  all constant variables are private since they don't need to be changed
+"""
+
 from pathlib import Path
 
 home = Path.home()

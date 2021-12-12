@@ -1,3 +1,16 @@
+"""
+Description for this class.
+
+OOP Principles Used:
+Abstraction
+Encapsulation
+Inheritance 
+
+Reasoning:
+This class uses abstraction, since the it is a class that helps the whole program be broken into smaller pieces/classes
+This class uses encapsulation, since the __score_text constant variable is private since it don't need to be changed
+This class uses inheritance because music.py invokes a super class constructor that, initializes points to zero, sets the positions, and plays the music
+"""
 import arcade, random
 from zombiekiller import constants, draw
 

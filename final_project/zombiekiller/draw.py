@@ -1,3 +1,12 @@
+"""
+Description for this class.
+
+OOP Principles Used:
+Abstraction
+
+Reasoning:
+This class uses abstraction, since the it is a class that helps the whole program be broken into smaller pieces/classes
+"""
 import arcade, random
 from zombiekiller import constants, menu
 

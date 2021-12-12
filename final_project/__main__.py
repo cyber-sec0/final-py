@@ -1,15 +1,17 @@
 """
-Abstraction - This program uses abstraction, since the whole program was broken into smaller pieces/classes
-Encapsulation - This program uses encapsulation, since the all constant variables are private since they don't need to be changed
-Inheritance - music.py invokes a super class constructor that, initializes points to zero, sets the positions, and plays the music 
-Polymorphism - 
+Description for this class.
 
-polymorphism makes the program be scattered into multiple parts containing all functions, logic, conditions,
- operations and data necessary to perform an action
- 
- with polymorphism we summarize all of it in a single line containing a call to perform all these actions. 
- So it's easier and faster to see what that single line of code is doing.
-polymorphism can also override classes
+OOP Principles Used:
+Abstraction
+Encapsulation
+Inheritance 
+Polymorphism - Ongoing...
+
+Reasoning:
+This program uses abstraction, since the whole program was broken into smaller pieces/classes
+This program uses encapsulation, since the all constant variables are private since they don't need to be changed
+This program uses inheritance because music.py invokes a super class constructor that, initializes points to zero, sets the positions, and plays the music
+This file uses polymorphism because ...
 """
 import arcade
 from zombiekiller import constants, menu
